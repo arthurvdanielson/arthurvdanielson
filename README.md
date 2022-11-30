@@ -1,3 +1,5 @@
+
+![](https://rishavanand.github.io/static/images/greetings.gif)
 # 💫 About Me:
 🌱 I’m currently learning HTML5 and CSS3<br>💬 Ask me about my passion for software development<br>⚡ My childhood dream was to be a pilot.
 
