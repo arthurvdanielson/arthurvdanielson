@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur Danielson
+![github-header-image](https://user-images.githubusercontent.com/119462920/204939589-724382d2-88c9-4881-934c-9f9c7ea8ef0d.png)
 ========================================================================================================================================
 
 Beginner Developer
